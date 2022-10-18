@@ -1,0 +1,69 @@
+.navbar {
+  position: relative;
+  width: 100%;
+  height: 80px;
+  background-color: #B9CCED;
+  line-height: 55px;
+  display: flex;
+  justify-content: space-around;
+  margin-right: 50px;
+}
+.navbar img {
+  width: 130px;
+  height: 130px;
+}
+.navbar .logo {
+  display: flex;
+  align-items: center;
+}
+.navbar h3 {
+  color: #4C4C6D;
+  font-size: 30px;
+  padding-right: 300px;
+}
+.navbar ul li {
+  display: inline-block;
+  margin-right: 18px;
+}
+.navbar ul li a {
+  text-decoration: none;
+}
+
+.border {
+    width: 100%;
+    display: flex;
+    margin-bottom: 20px;
+}
+.border .kiri {
+  width:150%;
+  border:2px solid #4887b9;
+  padding:0.1px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+.border .kiri p {
+    margin-left: 7px;
+}
+.border .kanan img {
+    width: 450px;
+    height: 250px;
+    margin-top: 40px;
+}
+
+.kolom {
+    width: 100%;
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.kolom .kiri {
+    width: 50%;
+    margin-right: 20px;
+}
+.kolom .kanan {
+    width: 50%;
+   margin-top: 140px;
+}
+button a {
+  text-decoration: none;
+}

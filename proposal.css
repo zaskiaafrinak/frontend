@@ -1,0 +1,130 @@
+.navbar {
+  position: relative;
+  width: 100%;
+  height: 80px;
+  background-color: #B9CCED;
+  line-height: 55px;
+  display: flex;
+  justify-content: space-around;
+  margin-right: 50px;
+}
+.navbar img {
+  width: 130px;
+  height: 130px;
+}
+.navbar .logo {
+  display: flex;
+  align-items: center;
+}
+.navbar h3 {
+  color: #4C4C6D;
+  font-size: 30px;
+  padding-right: 300px;
+}
+.navbar ul li {
+  display: inline-block;
+  margin-right: 18px;
+}
+.navbar ul li a {
+  text-decoration: none;
+}
+
+.content {
+    width: 100%;
+    display: flex;
+    padding-top: 30px;
+}
+.content img {
+    width: 450px;
+    height: 250px;
+    padding-left: 30px;
+}
+.content .kiri {
+    width:55%;
+    padding-top: 40px;
+}
+.content .kanan {
+    width: 40%;
+}
+
+.banner {
+  width: 100%;
+  display: flex;
+}
+.banner .kiri {
+  width:50%;
+  padding-top: 20px;
+}
+.banner .kanan {
+  width: 50%;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.kia {
+  width: 100%;
+  display: flex;
+}
+.kia .kiri {
+  width:50%;
+  padding-top: 30px;
+  padding-right: 20px;
+}
+.kia .kanan{
+  width: 50%;
+}
+.kia img {
+  width: 450px;
+  height: 250px;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.border {
+  width:70%;
+  height:150px;
+  border:2px solid #4887b9;
+  margin:auto;
+  padding:0.1px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+.border p {
+  margin-left: 20px;
+}
+
+.zas {
+  width: 100%;
+  display: flex;
+}
+.zas .kiri {
+  width:50%;
+  margin-top: 20px;
+ padding-right: 20px;
+}
+.zas .kiri .kiri1 {
+  width: 150%;
+}
+.zas .kanan {
+  width: 50%;
+  margin-top: 45px;
+}
+
+.zaskia {
+  width:45%;
+  border:2px solid #4887b9;
+  margin:auto;
+  padding:0.1px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+.zaskia img {
+  width: 450px;
+  height: 250px;
+  padding-left: 40px;
+  padding-bottom: 10px;
+}
+button a {
+  text-decoration: none;
+}
